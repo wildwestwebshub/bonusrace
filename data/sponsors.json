@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Kool Speed",
+    "img": "banners/25koolspeed.jpg",
+    "url": ""
+  },
+  {
+    "name": "Performance Stall Mat Rental",
+    "img": "banners/performancestallmat.jpg",
+    "url": ""
+  },
+  {
+    "name": "Drinking Post Waterer",
+    "img": "banners/drinkingpost.jpg",
+    "url": "https://dpwaterer.com"
+  },
+  {
+    "name": "Bent Halo Saddlery",
+    "img": "banners/25benthalo.jpg",
+    "url": "https://www.benthalosaddlery.com"
+  },
+  {
+    "name": "Complete Equine Performance",
+    "img": "banners/cep.png",
+    "url": "https://completeequineperformance.com/product-category/all/daily-supplements/"
+  },
+  {
+    "name": "Legend Tack & Silver",
+    "img": "banners/legend.png",
+    "url": "http://legendtackandsilver.com"
+  },
+  {
+    "name": "Succeed",
+    "img": "banners/succeed.jpg",
+    "url": "https://www.succeed-equine.com/"
+  },
+  {
+    "name": "OK Trailer",
+    "img": "banners/26oktrailer.jpg",
+    "url": ""
+  },
+  {
+    "name": "Frenchmans Guy / Myers",
+    "img": "banners/myers.jpg",
+    "url": "http://www.frenchmansguy.com"
+  },
+  {
+    "name": "Chiropractic",
+    "img": "banners/26chiro.jpg",
+    "url": ""
+  },
+  {
+    "name": "Cavender's",
+    "img": "banners/26cavenders.jpg",
+    "url": ""
+  },
+  {
+    "name": "Runnin Dove Tack & More",
+    "img": "banners/runnindove.jpg",
+    "url": "http://www.runnindovetackandmore.com"
+  },
+  {
+    "name": "MVP / MedVet Pharm",
+    "img": "banners/mvp.jpg",
+    "url": "https://medvetpharm.com"
+  },
+  {
+    "name": "Wall Farm Equipment",
+    "img": "banners/25wallequip.jpg",
+    "url": "https://www.wallfarmequipment.com/inventory/"
+  },
+  {
+    "name": "Top Hand",
+    "img": "banners/25tophand.jpg",
+    "url": ""
+  },
+  {
+    "name": "Lucky Chuck",
+    "img": "banners/26luckychuck.jpg",
+    "url": "https://luckychuck.com/"
+  },
+  {
+    "name": "Re-Vita EQ",
+    "img": "banners/revita.jpg",
+    "url": "https://revitacbd.com"
+  },
+  {
+    "name": "Hells Half Acre Media",
+    "img": "banners/26hhamedia.jpg",
+    "url": ""
+  },
+  {
+    "name": "SLS",
+    "img": "banners/26sls.png",
+    "url": ""
+  },
+  {
+    "name": "Hart Trailers",
+    "img": "banners/26hart.jpg",
+    "url": "https://www.harttrailer.com"
+  },
+  {
+    "name": "Steinmetz / SS Jeans",
+    "img": "banners/26ssjeans.jpg",
+    "url": "https://www.steinmetzco.com"
+  }
+]
