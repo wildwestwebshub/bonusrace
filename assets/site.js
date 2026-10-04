@@ -15,10 +15,12 @@
     window.addEventListener('load',function(){load(1);reset()});
   }
   // sponsor marquee: wait for every banner to load, then scroll at a steady speed
+  // >>> SPONSOR SCROLL SPEED: pixels per second. Smaller = slower (try 20 for very slow, 40 for medium).
+  var SPEED=25;
   var m=document.querySelector('.marquee');
   if(m&&!window.matchMedia('(prefers-reduced-motion: reduce)').matches){
     var imgs=[].slice.call(m.querySelectorAll('img')),left=imgs.length,started=false;
-    function startM(){if(started)return;started=true;m.innerHTML+=m.innerHTML;var w=m.scrollWidth/2;m.style.setProperty('--dur',Math.max(30,Math.round(w/55))+'s');m.classList.add('run')}
+    function startM(){if(started)return;started=true;m.innerHTML+=m.innerHTML;var w=m.scrollWidth/2;m.style.setProperty('--dur',Math.max(60,Math.round(w/SPEED))+'s');m.classList.add('run')}
     imgs.forEach(function(im){if(im.complete){left--}else{var f=function(){if(--left<=0)startM()};im.addEventListener('load',f);im.addEventListener('error',f)}});
     if(left<=0)startM();
     setTimeout(startM,6000);
