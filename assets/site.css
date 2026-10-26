@@ -93,9 +93,6 @@ h2{font-size:26px;margin:1.2em 0 .5em}.muted{color:var(--muted)}
 .bria-home{text-align:center;margin:8px 0 0}.bria-home img{width:150px;height:auto}
 .cards{grid-template-columns:1fr;max-width:900px;margin-inline:auto}
 .promo .btns{justify-content:center}
-.card.jackets{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:16px;align-items:center}
-.card.jackets>.center{grid-column:1/-1;order:3}.card.jackets .sizechart{margin:0}
-@media(max-width:700px){.card.jackets{grid-template-columns:1fr}}
 
 /* v3: color bands with swoosh tops */
 .band{position:relative;margin-top:96px;padding:30px 0 44px}
